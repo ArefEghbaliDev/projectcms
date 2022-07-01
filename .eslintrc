@@ -1,0 +1,7 @@
+{
+  "extends": ["next/core-web-vitals", "airbn", "airbnb/hooks", "prettier"],
+  "plugins": ["react", "react-hooks", "prettier"],
+  "rules": {
+    "prettier/prettier": ["error"]
+  }
+}
